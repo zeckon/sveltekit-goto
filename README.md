@@ -4,6 +4,7 @@ goto doing page refresh
 
 Run the app
 ```bash
+npm i
 npm run dev
 ```
 
